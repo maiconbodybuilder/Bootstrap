@@ -1,0 +1,4 @@
+.cor-gradiente{
+background: rgb(227,236,7);
+background: linear-gradient(90deg, rgba(227,236,7,1) 0%, rgba(9,117,121,1) 50%, rgba(248,0,255,1) 100%);
+}
